@@ -1,0 +1,40 @@
+# Gradel directory
+.gradle
+/build
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# built application files
+*.apk
+*.ap_
+
+# Java class files
+*.class
+
+# Local configuration file(sdk path, etc)
+/local.properties
+
+# idea files
+/.idea/libraries
+/.idea/workspace.xml
+/.idea/gradle.xml
+/.idea/misc.xml
+.idea
+
+# OSX files
+.DS_Store
+
+# intellij
+*.iml
+
+# android studio captures folder
+/captures
+
+.externalNativeBuild
+
+# Generated files
+bin/
+gen/
+out/
+
